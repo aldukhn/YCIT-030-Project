@@ -16,7 +16,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <footer className="footer">
-        <p>Footer</p>
+        <p>Advanced React JS</p>
       </footer>
     </StyledFooter>
   );
