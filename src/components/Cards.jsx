@@ -8,7 +8,7 @@ const StyledCards = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin: 0 auto 50px auto;
     width: 100%;
     max-width: 1200px;
     padding: 0 20px;
@@ -28,6 +28,12 @@ const StyledCards = styled.div`
   .card h3,
   .card p {
     margin: 10px;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+    font-size: 50px;
   }
 `;
 
